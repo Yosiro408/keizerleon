@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head runat="server">
+    <link rel="stylesheet" type="text/css" href="Mobilelink.css"/>
+    <link rel="stylesheet" type="text/css" href="Keizer.css"/>
+    <link rel="stylesheet" type="text/css" href="Fonts.css"/>
+    <link rel="shortcut icon" href="Image/Leon.png"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="Emperor.js"></script>
+
+<!-- Mobile Styling-->
+    <title> Keizer L&eacute;on </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      @media only screen and (max-width:720px)
+      {
+        /* For mobile phones: */
+        .menu, .main, .right {
+          width:100%;
+        }
+      }
+      </style>
+    </head>
+
+  <body>
+<!--Keizer Léon | Navigation Bar-->
+    <div class="Music">
+      <div class="toggle">
+        <i class="fa fa-bars menu" aria-hidden="true"></i>
+      </div>
+      <ul class="KeizerBar">
+        <li>
+          <a href="Music.html"> <img src="Image/Music.png" width="50"/></a>
+        </li>
+            <li>
+            </li>
+        <li>
+          <a href="Index.html"> Keizer L&eacute;on</a>
+        </li>
+            <li>
+            </li>
+        <li>
+          <a href="Books.html"> <img src="Image/Book.png" width="50" /></a>
+        </li>
+      </ul>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.menu').click(function(){
+          $('ul').toggleClass('active');
+          })
+        })
+    </script>
+
+<!--Bulk-->
+    <h1 class="quote">
+      "Failures Offset Success"
+    </h1>
+
+    <!-- Saisho Ni-->
+    <table class="pwidth">
+        <tr>
+          <td>
+            <a href="https://smarturl.it/ykl-saisho-ni" target="_blank">
+              <img src="Image/Music/Saisho Ni.jpg" width="100%"><hr/>
+              <p class="stream">
+                K E I Z E R &nbsp; L &Eacute; O N&nbsp;
+              </p>
+            </a>
+          </td>
+          <td>
+            <a href="https://smarturl.it/ykl-saisho-ni" target="_blank">
+              <iframe src="https://open.spotify.com/embed/album/6sEown8LLlFsY3rIxg2Caw" allowtransparency="true" allow="encrypted-media"></iframe><hr/>
+              <p class="stream">
+                S A I S H O &nbsp; N I
+              </p>
+            </a>
+          </td>
+        </tr>
+    </table>
+
+<!--Speedy Fingers Inc. -->
+    <div class="Keizer Music">
+        <p class="Fingers">
+          &copy; 2018 Keizer L&eacute;on
+        </p>
+    </div>
+  </body>
+</html>

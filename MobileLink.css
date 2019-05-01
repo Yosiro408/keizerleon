@@ -1,0 +1,107 @@
+                              /* Mobile Link Css */
+                                    /*General*/
+table,tr,td{
+  padding:20px;
+}
+
+img{
+  vertical-align: middle;
+  display: inline-block;
+}
+
+a:link{
+  text-decoration: inherit;
+  display: inline;
+}
+a:visited{
+  text-decoration: none;
+  display: inline;
+}
+                                /*Sectional Fixes*/
+.Keilink{
+  border: solid 2px;
+  border-radius: 25px;
+  padding-top: 12px;
+  padding-bottom: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+
+.yklYamilink{
+  border: solid 2px;
+  border-radius: 25px;
+  padding-top: 12px;
+  padding-bottom: 15px;
+  padding-left: 85px;
+  padding-right: 85px;
+  font-size: 25px;
+  text-align: center;
+  color: black;
+  width: 30px;
+  font-family: 'Paprika';
+}
+
+.yklKeizerlink{
+  border: solid 2px;
+  border-radius: 25px;
+  padding-top: 12px;
+  padding-bottom: 15px;
+  padding-left: 77px;
+  padding-right: 77px;
+  font-size: 25px;
+  text-align: center;
+  color: black;
+  width: 30px;
+  font-family: 'Paprika';
+}
+
+.yklLeonlink{
+  border: solid 2px;
+  border-radius: 25px;
+  padding-top: 12px;
+  padding-bottom: 15px;
+  padding-left: 82px;
+  padding-right: 82px;
+  font-size: 25px;
+  text-align: center;
+  color: black;
+  width: 30px;
+  font-family: 'Paprika';
+}
+
+.Leon{
+  font-family: 'Pristina';
+  font-size: 55px;
+  text-align: center;
+  margin-top: -35px;
+  margin-bottom: -100px;
+}
+
+.socialmargin{
+  align-items: center;
+  padding-top: 0px;
+}
+
+.copy{
+  font-family: 'Paprika';
+  font-style: italic;
+  text-align: center;
+  font-size: 12px;
+  margin-top: -35px;
+  margin-bottom: -25px;
+  color: black;
+}
+
+.leonbtn:hover
+{
+  background-color:white;
+  color: white;
+}
+.yamibtn:hover
+{
+  background-color:white;
+  color: white;
+}

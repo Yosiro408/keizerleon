@@ -1,0 +1,116 @@
+@import url('Fonts/Pristina.oet');
+@font-face {
+  font-family: "Pristina";
+  src:url('Fonts/Pristina.eot') format('embedded-opentype'),
+  url('Fonts/Pristina.otf') format('opentype'),
+  url('Fonts/Pristina.woff2') format('woff2'),
+  url('Fonts/Pristina.woff') format('woff');
+}
+
+@import url('Fonts/Paprika.eot');
+@font-face{
+  font-family: "Paprika";
+  src:url('Fonts/Paprika.eot') format('embedded-opentype'),
+  url('Fonts/Paprika.otf') format('opentype'),
+  url('Fonts/Paprika.woff2') format('woff2'),
+  url('Fonts/Paprika.woff') format('woff');
+}
+
+@import url('Fonts/SegoePrint.eot');
+@font-face{
+  font-family: "Segoe Print";
+  src:url('Fonts/SegoePrint.eot') format('embedded-opentype'),
+  url('Fonts/SegoePrint.otf') format('opentype'),
+  url('Fonts/SegoePrint.woff2') format('woff2'),
+  url('Fonts/SegoePrint.woff') format('woff');
+}
+
+/* @import url('Fonts/Cambria.eot');
+@font-face {
+  font-family: "Cambria";
+  src:url('Fonts/Cambria.eot') format('embedded-opentype'),
+  url('Fonts/Cambria.otf') format('opentype'),
+  url('Fonts/Cambria.woff2') format('woff2'),
+  url('Fonts/Cambria.woff') format('woff');
+} */
+
+/* @import url('Fonts/Blocus.eot');
+@font-face {
+  font-family: "Blocus";
+  src:url('Fonts/Blocus.eot')format('embedded-opentype'),
+  url('Fonts/Blocus.otf') format('opentype'),
+  url('Fonts/Blocus.woff2') format('woff2'),
+  url('Fonts/Blocus.woff') format('woff');
+} */
+
+/* @import url('Fonts/Failed3d.eot');
+@font-face {
+  font-family: "Failed 3d Filled";
+  src:url('Fonts/Failed3d.eot') format('embedded-opentype'),
+  url('Fonts/Failed3d.otf') format('opentype'),
+  url('Fonts/Failed3d.woff2') format('woff2'),
+  url('Fonts/Failed3d.woff') format('woff');
+} */
+
+/* @import url('Fonts/Risaltyp.eot');
+@font-face{
+  font-family: "Risaltyp";
+  src:url('Fonts/Risaltyp.eot')format('embedded-opentype'),
+  url('Fonts/Risaltyp.otf') format('opentype'),
+  url('Fonts/Risaltyp.woff2') format('woff2'),
+  url('Fonts/Risaltyp.woff') format('woff');
+} */
+
+/* @import url('Fonts/Xarrovv.eot');
+@font-face{
+  font-family: "Xarrovv";
+  src:url('Fonts/Xarrovv.eot') format('embedded-opentype'),
+  url('Fonts/Xarrovv.otf') format('opentype'),
+  url('Fonts/Xarrovv.woff2') format('woff2'),
+  url('Fonts/Xarrovv.woff') format('woff');
+} */
+
+/* @import url('Fonts/Ynsect.eot');
+@font-face{
+  font-family: "Ynsect Moksha";
+  src:url('Fonts/Ynsect.eot') format('embedded-opentype'),
+  url('Fonts/Ynsect.otf') format('opentype'),
+  url('Fonts/Ynsect.woff2') format('woff2'),
+  url('Fonts/Ynsect.woff') format('woff');
+} */
+
+/* @import url('Fonts/Aladin.eot');
+@font-face{
+  font-family: "Aladin";
+  src:url('Fonts/Aladin.eot') format('embedded-opentype'),
+  url('Fonts/Aladin.otf') format('opentype'),
+  url('Fonts/Aladin.woff2') format('woff2'),
+  url('Fonts/Aladin.woff') format('woff');
+} */
+
+/* @import url('Fonts/ArchitectsDaughter.eot');
+@font-face{
+  font-family: "Architects Daughter";
+  src:url('Fonts/ArchitectsDaughter.eot') format('embedded-opentype'),
+  url('Fonts/ArchitectsDaughter.otf') format('opentype'),
+  url('Fonts/ArchitectsDaughter.woff2') format('woff2'),
+  url('Fonts/ArchitectsDaughter.woff') format('woff');
+} */
+
+/* @import url('Fonts/Casper.eot');
+@font-face{
+  font-family: "Casper";
+  src:url('Fonts/Casper.eot') format('embedded-opentype'),
+  url('Fonts/Casper.otf') format('opentype'),
+  url('Fonts/Casper.woff2') format('woff2'),
+  url('Fonts/Casper.woff') format('woff');
+} */
+
+/* @import url('Fonts/Quikhand.eot');
+@font-face{
+  font-family: "Quikhand";
+  src:url('Fonts/Quikhand.eot') format('embedded-opentype'),
+  url('Fonts/Quikhand.otf') format('opentype'),
+  url('Fonts/Quikhand.woff2') format('woff2'),
+  url('Fonts/Quikhand.woff') format('woff');
+} */
